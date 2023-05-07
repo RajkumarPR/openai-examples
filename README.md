@@ -21,7 +21,7 @@ cd .. #come out of the client module
 cd server
 npm install
 ```
-Before running server module, create `.env` file add the OpenAI API key
+Before running server module, create `.env` file, then add the OpenAI API key
 ```
 OPENAI_API_KEY="your api key"
 ```
