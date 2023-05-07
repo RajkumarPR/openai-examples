@@ -30,6 +30,7 @@ Then run the server module
 npm run server
 ```
 Once the client and server started successfully open the below url in the browser
+
 http://localhost:5173/
 
 I have followed the below youtube video
