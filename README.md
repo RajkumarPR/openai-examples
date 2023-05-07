@@ -2,7 +2,7 @@
 Contains the sample OpenAI projects
 
 ### Prerequisites
-Node js must be install. Check is nodejs is installed or not
+Node js must be install. Check if nodejs is installed or not
 `node -v`
 
 ### How run this this project?
